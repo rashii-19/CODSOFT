@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contains projects/tasks for "Data Sciene" internship with codsoft.
+This repository contains projects/tasks for "Data Science" internship with codsoft.
